@@ -1,6 +1,6 @@
 # Project Brief: {Project Name}
 
-## Introduction / Problem Statement
+## Introduction & Problem Statement
 
 {Describe the core idea, the problem being solved, or the opportunity being addressed. Why is this project needed?}
 
@@ -16,7 +16,7 @@
 
 {Describe the primary users of this product/system. Who are they? What are their key characteristics or needs relevant to this project?}
 
-## Key Features / Scope (High-Level Ideas for MVP)
+## Key Features
 
 {List the core functionalities or features envisioned for the MVP. Keep this high-level; details will go in the PRD/Epics.}
 
@@ -24,7 +24,7 @@
 - Feature Idea 2: ...
 - Feature Idea N: ...
 
-## Known Technical Constraints or Preferences
+## Known Constraints and Risks
 
 - **Constraints:** {List any known limitations and technical mandates or preferences - e.g., budget, timeline, specific technology mandates, required integrations, compliance needs.}
 - **Risks:** {Identify potential risks - e.g., technical challenges, resource availability, market acceptance, dependencies.}
